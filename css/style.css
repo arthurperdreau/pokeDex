@@ -1,0 +1,33 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+.page{
+    background: #ffd525;
+    height: 200vh;
+}
+.navBarParametres{
+    background-color: #0236aa;
+    height: 10vh;
+}
+.navBarTitre{
+    color: #efdb19;
+    text-decoration-line: none;
+}
+.card-pokemon{
+    padding: 4vh;
+    margin-bottom: 4vh;
+    color: #efdb19;
+    background-color: #0236aa;
+    border: solid 1px #0236aa;
+    border-radius: 10px;
+    height: 30vh;
+    font-weight: bolder;
+}
+.buttonPokemon{
+    background-color: #0236aa;
+    color: #efdb19;
+    border:1px solid #0236aa;
+    border-radius: 5px;
+
+}
