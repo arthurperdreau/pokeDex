@@ -4,7 +4,7 @@ html,body{
 }
 .page{
     background: #ffd525;
-    height: 200vh;
+    min-height: 100vh;
 }
 .navBarParametres{
     background-color: #0236aa;
@@ -29,5 +29,16 @@ html,body{
     color: #efdb19;
     border:1px solid #0236aa;
     border-radius: 5px;
-
+    margin-bottom: 2vh;
 }
+.cardPokemonUnique{
+    padding: 4vh;
+    color: #efdb19;
+    background-color: #0236aa;
+    border: solid 1px #0236aa;
+    border-radius: 10px;
+    height: 35vh;
+    font-weight: bolder;
+    margin: 2vh;
+}
+.vide{}
